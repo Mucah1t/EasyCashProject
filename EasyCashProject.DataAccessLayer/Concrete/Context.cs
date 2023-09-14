@@ -1,4 +1,5 @@
-﻿using EasyCashProject.EntityLayer.Concrete;
+﻿using EasyCashProject.DataAccessLayer.Repository;
+using EasyCashProject.EntityLayer.Concrete;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
